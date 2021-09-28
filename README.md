@@ -1,6 +1,6 @@
 ## This is Ricardo, but please call me Richi! 
 
-I work as a full-time software engineer, I'm currently working at **[globant](https://github.com/globant)** as a tech lead _(NodeJs)_. In my spare time I do trading 🗠
+I work as a full-time software engineer, I'm currently working at **[skillshare](https://www.skillshare.com/)** as a tech lead _(NodeJs)_. In my spare time I do trading 🗠
 
 ### Stack
 
