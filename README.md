@@ -17,7 +17,7 @@
   Hi, I'm Richi, experienced software engineer from Colombia with more than 5 years in the industry and focused on the backend 
   <br>
   <br>
-  🔬 I'm currently working @ <a href="https://www.skillshare.com">Skillshare</a>
+  🔬 I'm currently working @ <a href="https://logixboard.com/">Logixboard</a>
   <br>
   🎓 I graduated from Universidad del Cauca - Electronic Engineering Department
   <br>
